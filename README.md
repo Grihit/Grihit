@@ -1,1 +1,1 @@
-# Greethub
+# Greet
