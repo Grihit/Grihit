@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Grihit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Grihit | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />][linkedin]
 [<img align="left" alt="Grihit | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-512.png" />][instagram]
 
 <br />
