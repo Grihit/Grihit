@@ -1,4 +1,5 @@
 ### Hi there, I'm Grihit 👋
+<img align="left" src="https://komarev.com/ghpvc/?username=Grihit" />
 
 ## I'm a Web Developer and a Student.
 - I'm currently working on Front End Development
