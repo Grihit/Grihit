@@ -1,5 +1,5 @@
 ### Hi there, I'm Grihit 👋
-<img align="left" width="200px" height="30px" src="https://komarev.com/ghpvc/?username=Grihit" /><br />
+<img align="left" width="150px" height="30px" src="https://komarev.com/ghpvc/?username=Grihit" /><br />
 
 ## I'm a Web Developer and a Student.
 - I'm currently working on Front End Development
