@@ -1,4 +1,4 @@
-### Hi there, I'm Grihit 👋
+## Hi there, I'm Grihit 👋
 <img align="left" width="100px" height="20px" src="https://komarev.com/ghpvc/?username=Grihit" /><br />
 
 ## I'm a Web Developer and a Student.
@@ -29,8 +29,7 @@
 <br />
 
 
- ###GitHub Stats
-
+ ## GitHub Stats
   <img align="left" alt="Grihit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Grihit&show_icons=true&hide_border=true&theme=radical" />
   <img align="left" alt="Grihit's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grihit&layout=compact&theme=radical&hide_border=true" />
   <img align="left" alt="Grihit's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Grihit&theme=radical&hide_border=true" />
