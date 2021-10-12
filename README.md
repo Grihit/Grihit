@@ -31,9 +31,9 @@
 
 
  ### GitHub Stats
-  <img align="left" alt="Grihit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Grihit&show_icons=true&hide_border=true&theme=radical" />
-  <img align="left" alt="Grihit's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grihit&layout=compact&theme=radical&hide_border=true" />
-  <img align="left" alt="Grihit's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Grihit&theme=radical&hide_border=true" />
+  <img align="left" alt="Grihit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=grihit&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Grihit's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grihit&layout=compact&theme=radical&hide_border=true" />
+  <img align="left" alt="Grihit's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=grihit&theme=radical&hide_border=true" />
 
 
 [instagram]: https://instagram.com/grihitbudhiraja
